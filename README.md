@@ -23,7 +23,6 @@ muhammad_tayyab@rocketmail.com | mtayyab0182@gmail.com
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtayyab0182&layout=compact&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mtayyab0182&theme=tokyo-night)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mtayyab0182&theme=tokyonight)
-![Trophies](https://github-profile-trophy.vercel.app/?username=mtayyab0182&theme=onedark)
 ![](https://komarev.com/ghpvc/?username=mtayyab0182&color=blue)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Muhammad+Tayyab;Data+Analyst;Power+BI+Developer;Python+Developer)](https://git.io/typing-svg)
 
