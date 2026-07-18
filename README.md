@@ -12,6 +12,8 @@ muhammad_tayyab@rocketmail.com | mtayyab0182@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/muhammad-tayyab-b43288229/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:mtayyab0182@gmail.com)
 ![GitHub](https://img.shields.io/gitlab/contributors/:project)
+
+![Badge Name](https://img.shields.io/badge/LABEL-COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
